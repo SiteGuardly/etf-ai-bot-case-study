@@ -1,5 +1,6 @@
 # ETF AI Bot — Trading Research & Automation Dashboard
 
+[![Portfolio check](https://github.com/SiteGuardly/etf-ai-bot-case-study/actions/workflows/portfolio-check.yml/badge.svg)](https://github.com/SiteGuardly/etf-ai-bot-case-study/actions/workflows/portfolio-check.yml)
 ![Python](https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-dashboard-FF4B4B?logo=streamlit&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-data%20layer-003B57?logo=sqlite&logoColor=white)
@@ -93,4 +94,14 @@ This project demonstrates experience with:
 ## Privacy and availability
 
 This is a **portfolio case study**. The production repository, live account connection, datasets, model artefacts and credentials are intentionally private. No investment recommendation or guarantee is provided.
+
+## Evidence and maintenance
+
+The public documentation is checked automatically for missing local references and accidental secret-like assignments. Material portfolio updates are recorded in the [changelog](CHANGELOG.md) and versioned with GitHub releases.
+
+## Related work
+
+- [SiteGuardly platform case study](https://github.com/SiteGuardly/siteguardly-platform-case-study)
+- [Smart Home Operations Dashboard](https://github.com/SiteGuardly/smart-home-dashboard-case-study)
+- [Public WordPress workflow adapter demo](https://github.com/SiteGuardly/wordpress-workflow-adapter-demo)
 
